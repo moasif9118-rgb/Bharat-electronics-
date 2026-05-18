@@ -6,7 +6,7 @@
 
 // ✅ Apna Google Maps link yahan daalo
 // Example: "https://maps.google.com/?q=Bharat+Electronics+Lucknow"
-const MAP_LINK = "https://maps.google.com/?q=your+shop+location";
+const MAP_LINK = "https://maps.app.goo.gl/B4X8c7JtvQMznLNA7?g_st=awb";
 
 document.getElementById('mapsBtn').href    = MAP_LINK;
 document.getElementById('mapBoxLink').href  = MAP_LINK;
